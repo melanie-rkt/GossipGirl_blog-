@@ -263,12 +263,12 @@ enlève les /* au début et */ à la fin
 
 body{
 
-background-image:background-image:url("images/Gossip girl fond.webp");
-
-
-background-size:cover;
-
-background-attachment:fixed;
+    margin:0;
+    background-image:url("images/Gossip girl fond.webp");
+    background-size:cover;
+    background-attachment:fixed;
+    background-position:center;
+}
 
 }
 
